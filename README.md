@@ -4,7 +4,7 @@ Jitao David Zhang, Roland Schmucki, Martin Ebeling, Detlef Wolf, April 2023
 
 # Background
 
-This repo contains static files of the BIOS (Bioinfo-C) library, both header
+This repository contains static files of the BIOS (Bioinfo-C) library, both header
 files and source files. Users can write programs depending on the BIOS
 (Bioinfo-C) library, compile them against the static files.
 
