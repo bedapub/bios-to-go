@@ -1,4 +1,4 @@
 /bin
-.gitignore
+.git*
 README.md
 Dockerfile
